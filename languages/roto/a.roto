@@ -1,0 +1,17 @@
+fn main() {
+    println!("Hello, world!");
+    let a = 42;
+}
+
+filter main() {
+    println!("Hello, world!");
+}
+
+test main {
+
+}
+
+type Foo {
+    x: i32,
+    y: i32,
+}
