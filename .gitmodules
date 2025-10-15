@@ -1,3 +1,0 @@
-[submodule "grammars/roto"]
-	path = grammars/roto
-	url = https://github.com/nlnetlabs/tree-sitter-roto
