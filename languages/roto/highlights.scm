@@ -94,6 +94,7 @@
   "match"
 ] @keyword.control.conditional
 
+"for" @keyword.control.repeat
 "while" @keyword.control.repeat
 
 [
@@ -104,11 +105,12 @@
 ] @keyword.function
 
 "let" @keyword.storage
-"type" @keyword.storage
+"record" @keyword.storage.type
+"variant" @keyword.storage.type
 
 "import" @keyword.control.import
 
-; "in" @keyword
+"in" @keyword
 ; "dep" @keyword
 ; "std" @keyword
 ; "super" @keyword

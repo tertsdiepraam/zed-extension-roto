@@ -1,6 +1,6 @@
 id = "roto"
 name = "Roto"
-version = "0.1.0"
+version = "0.10.0"
 schema_version = 1
 authors = ["Conrad Irwin <conrad.irwin@gmail.com>", "Terts Diepraam <terts.diepraam@gmail.com>"]
 description = "Syntax highlighting for Roto"
@@ -8,4 +8,4 @@ repository = "https://github.com/tertsdiepraam/zed-extension-roto"
 
 [grammars.roto]
 repository = "https://github.com/NLnetLabs/tree-sitter-roto"
-commit = "11d9711af90e472dc470150c8538c3071b8ef182"
+commit = "9ac03409ddee6ab8f3b74746756f12fc6adec740"

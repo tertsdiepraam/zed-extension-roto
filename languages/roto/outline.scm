@@ -1,4 +1,3 @@
-
 (function_item
     "fn" @context
     name: (_) @name) @item
@@ -12,9 +11,12 @@
     name: (_) @name) @item
 
 (record_item
-    "type" @context
+    "record" @context
     name: (_) @name) @item
 
+(variant_item
+    "variant" @context
+    name: (_) @name) @item
 
 (test_item
     "test" @context
